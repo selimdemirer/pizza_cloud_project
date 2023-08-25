@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cydeo</groupId>
-    <artifactId>pizza-cloud-project</artifactId>
+    <artifactId>pizza_cloud_project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pizza-cloud-project</name>
     <description>pizza-cloud-project</description>
